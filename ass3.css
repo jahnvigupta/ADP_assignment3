@@ -1,0 +1,55 @@
+form
+{
+	background-color: rgb(206,226,248);
+	margin: auto;
+	width: 18%;
+	border: 1px dotted rgb(15,15,15);
+	margin-top: 100px;
+}
+
+input
+{
+	border-radius:5px;
+	height:30px;
+	width: 100%;
+	border-color: rgb(15,15,255);
+	padding-left: 2px;
+	padding: 12px 20px;
+}
+
+button
+{
+	border-radius:5px;
+	width: 100%;
+	background-color: blue;
+	color: white;
+	border-color: rgb(15,15,255);
+	margin-bottom: 20px;
+	
+}
+
+.form
+{
+	width: 90%;
+	margin: auto;
+}
+
+#address
+{
+	height: 100px;
+}
+
+hr{
+  border-top: 1px dotted rgb(15,15,15);
+}
+
+
+
+
+
+
+
+
+
+
+
